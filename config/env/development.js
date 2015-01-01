@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/helloworld-dev',
+	db: 'mongodb://MeanUser:meanpassword@ds053320.mongolab.com:53320/simple',
 	app: {
 		title: 'HelloWorld - Development Environment'
 	},
